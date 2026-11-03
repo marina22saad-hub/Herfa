@@ -75,3 +75,9 @@ This UI/UX case study documents the design process, including user research, mar
 **Project Type:** UI/UX Design
 **Team Size:** 5 Members
 **Instructor:** Mohamed Kamar
+<img width="1344" height="799" alt="مقابله المستخدمين" src="https://github.com/user-attachments/assets/dc232169-36ee-4903-a674-33543720c76e" />
+<img width="1600" height="901" alt="دراسه المنافسين" src="https://github.com/user-attachments/assets/52cb4b90-52f4-4a0d-bdca-739b3fc883f0" />
+<img width="1312" height="1199" alt="survey" src="https://github.com/user-attachments/assets/1845d6c4-dab2-4523-b772-0e83e38d226a" />
+<img width="1536" height="1024" alt="problem_satements" src="https://github.com/user-attachments/assets/704729b3-5c52-42ee-a3f7-f14ffb80c967" />
+<img width="1600" height="951" alt="persona" src="https://github.com/user-attachments/assets/d965c866-0385-47ad-ac28-93107a259ab3" />
+<img width="976" height="1085" alt="Logo" src="https://github.com/user-attachments/assets/bef600b7-6277-412c-964d-0c15e54cb542" />
