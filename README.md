@@ -75,9 +75,30 @@ This UI/UX case study documents the design process, including user research, mar
 **Project Type:** UI/UX Design
 **Team Size:** 5 Members
 **Instructor:** Mohamed Kamar
-<img width="1344" height="799" alt="مقابله المستخدمين" src="https://github.com/user-attachments/assets/dc232169-36ee-4903-a674-33543720c76e" />
-<img width="1600" height="901" alt="دراسه المنافسين" src="https://github.com/user-attachments/assets/52cb4b90-52f4-4a0d-bdca-739b3fc883f0" />
-<img width="1312" height="1199" alt="survey" src="https://github.com/user-attachments/assets/1845d6c4-dab2-4523-b772-0e83e38d226a" />
-<img width="1536" height="1024" alt="problem_satements" src="https://github.com/user-attachments/assets/704729b3-5c52-42ee-a3f7-f14ffb80c967" />
-<img width="1600" height="951" alt="persona" src="https://github.com/user-attachments/assets/d965c866-0385-47ad-ac28-93107a259ab3" />
-<img width="976" height="1085" alt="Logo" src="https://github.com/user-attachments/assets/bef600b7-6277-412c-964d-0c15e54cb542" />
+
+Logo
+<img width="976" height="1085" alt="1-logo" src="https://github.com/user-attachments/assets/1ae43729-94bf-4535-b139-4587de30cd2f" />
+Cometitor analysis
+<img width="1600" height="901" alt="2-competitor analysis" src="https://github.com/user-attachments/assets/09ea7612-135b-423b-b000-f86aafe15b9c" />
+user interview
+<img width="1344" height="799" alt="3-user interview" src="https://github.com/user-attachments/assets/7853b3f5-2a24-44ff-b9b5-533dca741a6c" />
+Survey
+<img width="1312" height="1199" alt="4-survey" src="https://github.com/user-attachments/assets/45c74e0d-0d4b-45c0-8e1c-7e8b6e3ee7ae" />
+Secondary persona & primary persona
+<img width="1600" height="951" alt="5-secondary persona   primairy" src="https://github.com/user-attachments/assets/a9eb9233-9bde-48de-a955-c4c11dcba84a" />
+Empathy map
+<img width="1280" height="853" alt="6-empathy map" src="https://github.com/user-attachments/assets/fa8e729e-b84f-4cb0-876b-e84ccb0c6d7e" />
+Problem statements &Solution
+<img width="1536" height="1024" alt="7-problem satements solution" src="https://github.com/user-attachments/assets/ec520bd7-167b-46fe-8dd6-68bfc852cce6" />
+Journey map
+<img width="1280" height="853" alt="8-user journey map" src="https://github.com/user-attachments/assets/95c2de53-6ffd-49cc-99cb-71a988ffe1df" />
+Card sorting
+<img width="1280" height="853" alt="9-card sorting" src="https://github.com/user-attachments/assets/1ac867e8-4aec-4e45-a67c-d54662740041" />
+User flow
+<img width="1280" height="853" alt="11-user flow" src="https://github.com/user-attachments/assets/3f0a9d15-8a9c-4759-ba4c-3f8d2266b9a1" />
+
+
+
+
+
+
